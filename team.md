@@ -55,7 +55,6 @@ We only work with the best. Each of new hire is smarter than our last hire.
 5. Funding
 
 
-
 ## Cadence
 
 We run our team according to the following rhythm: 
