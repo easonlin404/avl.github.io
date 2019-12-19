@@ -36,11 +36,11 @@ Our values govern how we behave. They describe our expectations from people we h
 * We trust **fast Iteration** and **radical Transperancy** will lead to Results. 
 * Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
 
-### 1. Timing
-### 2. Idea
-### 3. Team
-### 4. Business Model
-### 5. Funding
+1. Timing
+2. Idea
+3. Team
+4. Business Model
+5. Funding
 
 # Cadence
 
