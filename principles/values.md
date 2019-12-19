@@ -4,7 +4,7 @@ title: 價值觀
 description: Values
 ---
 
-## Values and Expectations
+## Expectations 期望
 
 ### 1. Be Honest
 * We are built on trust — always be honest with your team and with yourself 

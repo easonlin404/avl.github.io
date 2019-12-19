@@ -9,6 +9,15 @@ description: Team
 我們是 Stanford 史丹佛(電機學士)與 MIT 麻省理工學院(材料工程學士)校友創辦的台北新創公司。
 有在紐約與芝加哥在各大型投資銀行、算法交易對沖基金、管理諮詢顧問的企業經驗。也有在矽谷和亞洲金融科技創業成功的紀錄。目前創立一個與眾不同的孵化團隊，加速內部自己創造的新點子。
 
+## 價值觀
+我們的5個 company values 是：
+
+2. **成果**
+1. **重複**
+1. **透明**
+1. **合作**
+1. **效率**
+
 <br>
 
 ---
@@ -40,19 +49,24 @@ Our values govern how we behave. They describe our expectations from people we h
 ## Secret Sauce
 There are many factors contributing a startup's success. Below are five and how we at AVL excel in each:
 
-1. Timing
+1. **Timing**
 
 
-2. Idea
+
+2. **Idea**
+
 We are fact-based and driven by finding and solving the root cause. We are flat-structured and meritocratic without hierarchy, where the best ideas win. 
 
-3. Team
+3. **Team**
+
 We only work with the best. Each of new hire is smarter than our last hire.
 
-4. Business Model
+4. **Business Model**
 
 
-5. Funding
+
+5. **Funding**
+
 
 
 ## Cadence
