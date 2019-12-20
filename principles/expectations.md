@@ -1,22 +1,22 @@
 ---
 layout: default
-title: 價值觀
-description: Values
+title: 期望
+description: Expectations
 ---
 
 ## Expectations 期望
 
-### 1. Be Honest
+### 1. Be Honest 誠實
 * We are built on trust — always be honest with your team and with yourself 
 * We do not tolerate dishonesty 
 * Truth — an accurate understanding of reality — is the essential foundation for producing good outcomes
 
-### 2. Act with integrity
+### 2. Act with integrity 誠信行事
 * Practice and demand integrity from your team
 * Do not let anything stand in the way of integrity, truth, and transparency
 * Be polite, professional, and respectful, but firm
 
-### 3. Be radically transparent
+### 3. Be radically transparent 激進透明
 * Practice and demand extreme candor from others
 * Lack of candor leads to dysfunctional  environments
 * Building trust based on honesty and openness are the key to collaborating effectively
