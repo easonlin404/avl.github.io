@@ -26,6 +26,10 @@ description: Team
 1. **聰明**
 1. **有團隊精神**
 
+
+[加入我們]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
+
+
 <br>
 
 ---
@@ -100,3 +104,5 @@ We strive to consistently create products and experiences that customers love an
 
 ### Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
+
+[Join us]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
