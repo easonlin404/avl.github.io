@@ -31,6 +31,15 @@ description: A Different Breed of Startup Incubator
 
 <br>
 
+## 社團
+
+幫我們支持台灣開源軟體，新創，及工程師社團：
+
+* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+
+<br>
+
 ---
 
 <br>
@@ -59,3 +68,12 @@ We want to work with talented individuals and are **always actively hiring**.
 We welcome feedback.
 * Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
 * Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
+
+<br>
+
+## Community
+
+Help us support the open source, startup, developer communites in Taiwan by following:
+
+* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
