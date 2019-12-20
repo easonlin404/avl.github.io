@@ -6,10 +6,10 @@ description: Team
 
 # 關於我們
 
-我們是 Stanford 史丹佛(電機學士)與 MIT 麻省理工學院(材料工程學士)校友創辦的台北新創公司。
-有在紐約與芝加哥在各大型投資銀行、算法交易對沖基金、管理諮詢顧問的企業經驗。也有在矽谷和亞洲金融科技創業成功的紀錄。目前創立一個與眾不同的孵化團隊，加速內部自己創造的新點子。
+我們是麻省理工學院（材料工程學士）與史丹佛（電機碩士）校友創辦的台北新創公司。有在紐約，西雅圖，舊金山，芝加哥，倫敦在各大型投資銀行、科技公司對沖基金、管理諮詢顧問的企業經驗。也有在矽谷和亞洲金融科技創業成功的紀錄。目前創立一個與眾不同的孵化團隊，加速內部自己創造的新點子。
 
 ## 價值觀
+
 我們的5個 company values 是：
 
 2. **成果**
@@ -26,7 +26,7 @@ description: Team
 
 # About us
 
-We are a team of entrepreneurs from MIT and Standford. We studied engineering as undergraduates, and worked in the world of banking, trading, and consulting in New York and Chicago, before building startups in Silicon Vallery. We are now based in Asia.
+We are a team of entrepreneurs from MIT and Standford. We studied engineering as undergraduates, and worked in the world of banking, tech, and consulting in New York, Chicago, Seattle, San Francisco, London before building startups in Silicon Valley. We are now based in Asia.
 
 
 ## Values
