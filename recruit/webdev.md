@@ -17,6 +17,7 @@ description: Web Developer Exam
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
+1. 這份線上測驗分數會決定您的職級與薪資範圍。請必定要交卷。
 1. 你會有**2.5小時**盡量完成開發一個網頁，會包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次次考前準備。
 1. 考題裡會有詳細的功能**讓你選擇**：
@@ -48,7 +49,7 @@ description: Web Developer Exam
 
 ## 考試結果如何被評估
 * 考試的目的是用實際面準確的測量實力，題目跟工作上的應用類似。
-* 你的考試成就會決定你的職位與薪資。
+* 你的考試成就會決定你的職位與薪資範圍。
 	* 越多可**完整使用的功能**，分數越高。
 
 ### 我們重視：
@@ -99,6 +100,7 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
+1. This online assessment's score will determine your engineering level (position) and your salary range.
 1. You will have **2.5 hours**.
 1. You will be given a list of web app features at the start of the exam via email.
 1. **Pick a few features.**
