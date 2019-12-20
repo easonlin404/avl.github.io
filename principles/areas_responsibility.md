@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 負責分配
+title: 責任分配
 description: Areas of Responsibility
 ---
 

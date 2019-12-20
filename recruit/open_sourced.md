@@ -69,9 +69,9 @@ As our open-sourced documents get more and more, we need a search bar to help em
 * Should support both Chinese and English search terms.
 * Client only, server-less.
 
-### Feature 7. Left-Sided Navigation Tree
+### Feature 7. Left-Sided/Sticky Navigation Tree
 
-Currently, the navigation tree is at the bottom of our pages. Some of these are long and require much scrolling to reach the tree. It would be helpful to have the navigation tree to the left hand side of the pages. 
+Currently, the navigation tree is at the bottom of our pages. Some of these are long and require much scrolling to reach the tree. It would be helpful to have the navigation tree to the left hand side of the pages. It should also not scroll with the page: it should persist (sticky) onto the left side.
 
 <br>
 

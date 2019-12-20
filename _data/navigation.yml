@@ -36,7 +36,7 @@ toc:
       - page: 管理方式 Management
         url: /principles/management.html
         subsubfolderitems:
-          - page: 負責分配 Areas of Responsibility
+          - page: 責任分配 Areas of Responsibility
             url: /principles/areas_responsibility.html
   - title: 人資管理 People
     url: /people/people.html
@@ -46,7 +46,7 @@ toc:
       - page: 薪資制度 Compensation
         url: /people/compensation.html
         subsubfolderitems:
-          - page: 全職工程師薪水 Full Time Engineering Levels
+          - page: 全職工程師薪水 Full-Time Engineering Levels
             url: /people/engineering_level.html
           - page: 特案兼職費用 Project-Based/Part-Time Engineering Levels
             url: /people/projectbased_level.html
