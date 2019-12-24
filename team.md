@@ -31,15 +31,15 @@ description: Team
 
 <!-- <img src=' ' width="300"/> -->
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
-[x]  Stanford
-[x]  Silicon Valley fintech startup
-[ ]  ?
+- [x]  Stanford
+- [x]  Silicon Valley fintech startup
+- [ ]  ?
 
 <!-- <img src=' ' width="300"/> -->
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
-[x]  MIT
-[x]  New York fintech startup
-[ ]  ?
+- [x]  MIT
+- [x]  New York fintech startup
+- [ ]  ?
 
 
 [加入我們]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
