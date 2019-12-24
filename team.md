@@ -27,6 +27,15 @@ description: Team
 1. **有團隊精神**
 
 
+## 團隊 Team
+
+| **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}** | **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}** |
+| --- | --- | 
+| --- | --- |
+
+***
+
+
 [加入我們]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
 
@@ -100,9 +109,9 @@ We run our team according to the following rhythm:
 ### Vision / 10 years
 
 ### Mission / 30 years
-We strive to consistently create products and experiences that customers love and value.
 
 ### Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
+
 
 [Join us]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
