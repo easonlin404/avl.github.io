@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 期望
+title: 團隊期望
 description: Expectations
 ---
 
