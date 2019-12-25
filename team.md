@@ -105,24 +105,24 @@ There are many factors contributing a startup's success. Below are five and how 
 
 1. **Timing**
 
-We cannot time the market, because nobody can predict the future. But we can minimize our risk and maximize our probability of success. We try to create a favorable future and get lucky.
+	We cannot time the market, because nobody can predict the future. But we can minimize our risk and maximize our probability of success. We try to create a favorable future and get lucky.
 
 
 2. **Idea**
 
-We are fact-based and driven by finding and solving the root cause. We are flat-structured and meritocratic without hierarchy, where the best ideas win. 
+	We are fact-based and driven by finding and solving the root cause. We are flat-structured and meritocratic without hierarchy, where the best ideas win. 
 
 3. **Team**
 
-We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically. 
+	We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically. 
 
 4. **Business Model**
 
-We focus on profitablity, efficient user acqusition, and quick growth.
+	We focus on profitablity, efficient user acqusition, and quick growth.
 
 5. **Funding**
 
-We are currently self-funded. If you're interested in partnering or investing, please contact us.
+	We are currently self-funded. If you're interested in partnering or investing, please contact us.
 
 ## Cadence
 
