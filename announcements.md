@@ -6,9 +6,12 @@ description: Announcements
 
 # 最新公告
 
-HAPPY HOLIDAYS!
+## 聖誕節快樂！
 
-Sending you the warmest wishes for a joyful holiday season and a prosperous New Year.
+### 我們的團隊祝福您假期愉快，新年快樂！
+
+<img src='' width="400"/>
+
 
 <br>
 
@@ -17,3 +20,9 @@ Sending you the warmest wishes for a joyful holiday season and a prosperous New 
 <br>
 
 # Announcements
+
+## HAPPY HOLIDAYS FROM AVL!
+
+### Sending you the warmest wishes for a joyful holiday season and a prosperous New Year 2020!
+
+<img src='' width="400"/>
