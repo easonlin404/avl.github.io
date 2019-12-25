@@ -34,12 +34,12 @@ description: Team
 <img src=' ' width="300"/>
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
-創辦人 _Co-Founder.Stanford-grad. Tech genius._
+創辦人 _Co-Founder. Stanford-grad. Tech genius._
 
 <img src=' ' width="300"/>
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 
-創辦人 _Co-Founder.MIT-grad. Startup rockstar._
+創辦人 _Co-Founder. MIT-grad. Startup rockstar._
 
 
 ## 我們的顧問 Our Advisors

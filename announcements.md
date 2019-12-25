@@ -15,7 +15,7 @@ description: Announcements
 
 ### 我們的團隊祝福您假期愉快，新年快樂！
 
-<img src='' width="400"/>
+<img src='https://lh3.googleusercontent.com/rmpJXtkX1efmBwd0nsKpu9zydlen5chlFJmL_cwo11TTtciOz4uuAeFz9dULROAYw3cRuGbt5YpwLSuxuT2qEUgTyP-AV98PaC_Pv8mPvY56o4xaiwxL_BLSNET7NVBEltSVcaH2bQ8=w486-h657-no' width="400"/>
 
 
 <br>
@@ -34,4 +34,4 @@ description: Announcements
 
 ### Sending you the warmest wishes for a joyful holiday season and a prosperous New Year!
 
-<img src='' width="400"/>
+<img src='https://lh3.googleusercontent.com/ozbni1IunGNTqZw0NVt1y4vUIG7iavXS__bNtR5tuypzYs3uh14o61g6OERdYoPuy-2T55ftZyOLXntBtyMjl-G4qlBL-3sF_vQ4VPWm_Oc6G54S69T6mm6NS9djdzhHCG2PKB6IIr0=w493-h657-no' width="400"/>
