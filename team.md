@@ -31,12 +31,16 @@ description: Team
 
 <!-- <img src=' ' width="300"/> -->
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
+
 _Co-Founder_
+
 Stanford-grad. Tech genius.
 
 <!-- <img src=' ' width="300"/> -->
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
+
 _Co-Founder_
+
 MIT-grad. Startup rockstar.
 
 
