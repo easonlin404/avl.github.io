@@ -6,7 +6,7 @@ description: Team
 
 # 關於我們
 
-我們是麻省理工學院（材料工程學士）與史丹佛（電機碩士）校友創辦的台北新創公司。有在紐約、西雅圖、舊金山、芝加哥、香港、上海、倫敦，在各大型投資銀行、科技公司對沖基金、管理諮詢顧問的企業經驗。也有在矽谷和亞洲金融科技創業成功的紀錄。目前創立一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行新的市場實驗。目前團隊在台北、新加坡。
+我們是麻省理工學院工程師與史丹佛電機碩創辦的台北新創公司，創造有用的軟體。。在紐約、西雅圖、舊金山、芝加哥、香港、上海、倫敦，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊在台北、香港、新加坡。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行新的市場實驗，有成長也有盈利。
 
 ## 價值觀
 
@@ -18,7 +18,7 @@ description: Team
 1. **合作**
 1. **效率**
 
-我們的團隊人員比有的條件：
+我們的團隊人員必有的條件：
 
 1. **誠信**
 1. **主動**
@@ -27,19 +27,15 @@ description: Team
 1. **有團隊精神**
 
 
-## 團隊 Team
+## 我們的核心團隊 Our Core Team
 
 <!-- <img src=' ' width="300"/> -->
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
-- [x]  Stanford
-- [x]  Silicon Valley fintech startup
-- [ ]  ?
+Stanford-grad, former, tech genius. Silicon Valley fintech startup
 
 <!-- <img src=' ' width="300"/> -->
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
-- [x]  MIT
-- [x]  New York fintech startup
-- [ ]  ?
+MIT New York fintech startup rockstar.
 
 
 [加入我們]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
@@ -53,7 +49,7 @@ description: Team
 
 # About us
 
-We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates, and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, Hong Kong, London before building startups in Silicon Valley. We are now based in Asia. We create, build, and implement experiments quickly for profitable ideas.
+We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates, and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, Hong Kong, London before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software.
 
 
 ## Values
@@ -78,6 +74,7 @@ There are many factors contributing a startup's success. Below are five and how 
 
 1. **Timing**
 
+We cannot time the market, because nobody can predict the future. But we can minimize our risk and maximize our probability of success. We try to create a favorable future and get lucky.
 
 
 2. **Idea**
@@ -86,7 +83,7 @@ We are fact-based and driven by finding and solving the root cause. We are flat-
 
 3. **Team**
 
-We only work with the best. Each of new hire is smarter than our last hire.
+We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically. 
 
 4. **Business Model**
 
@@ -94,28 +91,20 @@ We only work with the best. Each of new hire is smarter than our last hire.
 
 5. **Funding**
 
-
+We We are currently self-funded. If you're interested in partnering or investing, please contact us.
 
 ## Cadence
 
 We run our team according to the following rhythm: 
 
 ### Agile Scrum / Day 
-
 ### Sprint / Week
-
 ### KPIs & 1-on-1's / Month
-
 ### OKRs / Quarter 
-
 ### Annual Plan / Year
-
 ### Strategy / 3 years
-
 ### Vision / 10 years
-
 ### Mission / 30 years
-
 ### Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
