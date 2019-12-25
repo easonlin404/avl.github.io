@@ -6,6 +6,8 @@ description: People
 
 > "Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results."
 
+台灣的勞基法制度。注重員工培訓。
+
 ## 人事資源 Resources
 
 * [員工福利 Benefits]({{ site.baseurl }}/people/benefits.html)

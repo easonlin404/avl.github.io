@@ -6,7 +6,7 @@ description: Team
 
 # 關於我們
 
-我們是麻省理工學院工程師與史丹佛電機碩創辦的台北新創公司，創造有用的軟體。。在紐約、西雅圖、舊金山、芝加哥、香港、上海、倫敦，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊在台北、香港、新加坡。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行新的市場實驗，有成長也有盈利。
+我們是麻省理工學院工程師與史丹佛電機碩創辦的台北新創公司，創造有用的軟體。。在紐約、西雅圖、舊金山、芝加哥、香港、上海、倫敦，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊辦公室在台北、香港、新加坡的 WeWork。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行新的市場實驗，有成長也有盈利。
 
 ## 價值觀
 
@@ -32,14 +32,14 @@ description: Team
 <!-- <img src=' ' width="300"/> -->
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
-_Co-Founder_
+_創辦人 Co-Founder_
 
 Stanford-grad. Tech genius.
 
 <!-- <img src=' ' width="300"/> -->
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 
-_Co-Founder_
+_創辦人 Co-Founder_
 
 MIT-grad. Startup rockstar.
 
