@@ -39,25 +39,30 @@ Stanford-grad. Tech genius.
 _Co-Founder_
 MIT-grad. Startup rockstar.
 
+
 ## 我們的顧問 Our Advisors
 
-Amazon.com
-American Express
-Apple
-Capital One
-Citigroup
-ConsenSys
-Google
-Mastercard
-Nike
-PayPal
-Pinterest
-Samsung
-Tesla
-Venmo
-Visa
-Walmart / Store No. 8
-Warby Parke
+我們的顧問團隊來自：
+
+* Alibaba
+* Amazon.com
+* American Express
+* Apple
+* Bain
+* BCG
+* Capital One
+* Dell
+* Facebook
+* Foxconn
+* Google
+* Mastercard
+* McKinsey
+* Microsoft
+* Nike
+* PayPal
+* Samsung
+* Tencent
+* Visa
 
 
 <br>
