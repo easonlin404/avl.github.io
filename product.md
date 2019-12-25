@@ -4,7 +4,7 @@ title: 產品
 description: Product
 ---
 
-## 中文
+## 商品
 
 創造有市場需求的非凡產品是我們團隊的最終目的。我們努力不斷創造出客戶喜愛與珍重的商品和體驗。然而我們的團隊有多好，我們的商品就能有多好。所以我們重視專業人才的培養，重視開源文化。我們責任制，有透明的分享制度、透明的薪水、性別平等，對職場新人友善，重視學習新的技術，抱持開放的樂觀態度。我們支持職涯發展以及技術精進，不只是一份工作。有最佳的環境會、才會發展出最佳的產品。我們每一天，會用最好的態度面對市場的挑戰，要達到市場最高的要求。
 
@@ -35,21 +35,21 @@ description: Product
 
 <br>
 
-## English
+## Product & Service
 
 Our mission is to consistently create extraordinary products and experiences that customers love and value. Our product can only be as good as our people. We focus on our people so we can create th best products for our customers. We are currently working on a few interesting ideas in different industries:
 
 1. PerfectScore
 
-This EdTech software helps students around the world prepare for exams thorough a customized AI-powered problem-generating machine.
+	This EdTech software helps students around the world prepare for exams thorough a customized AI-powered problem-generating machine.
 
 1. VTF
 
-We offer global investors to invest in a basket of equities without having to go through a traditional ETF, acquiring superior liquidity and flexbility.
+	We offer global investors to invest in a basket of equities without having to go through a traditional ETF, acquiring superior liquidity and flexbility.
 
 1. WorkTime
 
-This workplace platform enables team members to track progress and time clearly. We automate performance reporting and review, enabling companies to better allocate resources and bonuses more efficently and effectively. 
+	This workplace platform enables team members to track progress and time clearly. We automate performance reporting and review, enabling companies to better allocate resources and bonuses more efficently and effectively. 
 
 
 We have many other ideas in the pipeline. We hope you consider joining us to complete them.
