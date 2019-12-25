@@ -31,14 +31,38 @@ description: Team
 
 <!-- <img src=' ' width="300"/> -->
 **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
-Stanford-grad, former, tech genius. Silicon Valley fintech startup
+_Co-Founder_
+Stanford-grad. Tech genius.
 
 <!-- <img src=' ' width="300"/> -->
 **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
-MIT New York fintech startup rockstar.
+_Co-Founder_
+MIT-grad. Startup rockstar.
+
+## 我們的顧問 Our Advisors
+
+Amazon.com
+American Express
+Apple
+Capital One
+Citigroup
+ConsenSys
+Google
+Mastercard
+Nike
+PayPal
+Pinterest
+Samsung
+Tesla
+Venmo
+Visa
+Walmart / Store No. 8
+Warby Parke
 
 
-[加入我們]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
+<br>
+
+[加入我們的旅程]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
 
 <br>
@@ -77,36 +101,37 @@ There are many factors contributing a startup's success. Below are five and how 
 We cannot time the market, because nobody can predict the future. But we can minimize our risk and maximize our probability of success. We try to create a favorable future and get lucky.
 
 
-2. **Idea**
+1. **Idea**
 
 We are fact-based and driven by finding and solving the root cause. We are flat-structured and meritocratic without hierarchy, where the best ideas win. 
 
-3. **Team**
+1. **Team**
 
 We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically. 
 
-4. **Business Model**
+1. **Business Model**
 
+We focus on profitablity, efficient user acqusition, and quick growth.
 
+1. **Funding**
 
-5. **Funding**
-
-We We are currently self-funded. If you're interested in partnering or investing, please contact us.
+We are currently self-funded. If you're interested in partnering or investing, please contact us.
 
 ## Cadence
 
 We run our team according to the following rhythm: 
 
-### Agile Scrum / Day 
-### Sprint / Week
-### KPIs & 1-on-1's / Month
-### OKRs / Quarter 
-### Annual Plan / Year
-### Strategy / 3 years
-### Vision / 10 years
-### Mission / 30 years
-### Big Hairy Audacious Goal (BHAG)
+#### Agile Scrum / Day 
+#### Sprint / Week
+#### KPIs & 1-on-1's / Month
+#### OKRs / Quarter 
+#### Annual Plan / Year
+#### Strategy / 3 years
+#### Vision / 10 years
+#### Mission / 30 years
+#### Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
+<br>
 
 [Join us]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
